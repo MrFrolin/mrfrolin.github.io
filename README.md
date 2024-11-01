@@ -1,3 +1,3 @@
 # Portfolio
 <br/>
-Vitea + React 
+Vite + React 
