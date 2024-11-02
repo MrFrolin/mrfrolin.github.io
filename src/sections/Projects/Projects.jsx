@@ -17,7 +17,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard 
         src={onboarding}
-        link="https://github.com/MrFrolin"
+        link="https://github.com/MrFrolin/Onboarding"
         ProjectName="Onboarding"
         description="app for new employees"
       />
